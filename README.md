@@ -1,6 +1,7 @@
 # 👋 Hello there
 
 My name is Nasoavina ( Nassoa ) and i'm a web Developer.
+
 I'm an independent full-stack Web developer living in Madagascar and focused on front-end. I mostly work with JavaScript (ReactJs & Node.js), but have also experience with PHP, and others.
 
 :mailbox: Reach me out!
