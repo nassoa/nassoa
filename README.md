@@ -6,4 +6,4 @@ I'm an independent Web developer living in Madagascar and focused on front-end. 
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-nasoavina-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nasoavina.m@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-mail-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nasoavina.m@gmail.com) [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/)
