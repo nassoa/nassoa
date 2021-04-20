@@ -33,6 +33,10 @@ I'm a passionate self-taught web developer living in Madagascar and focused on f
 ### Profile visits:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nassoa.nassoa)
 
+### Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Github Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nassoa&&hide=stars,prs,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
