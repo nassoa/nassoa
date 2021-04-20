@@ -33,7 +33,7 @@ I'm a passionate self-taught web developer living in Madagascar and focused on f
 ### Profile visits:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nassoa.nassoa)
 
-### Coding Stats
+<!-- ### Coding Stats -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
