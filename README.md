@@ -35,6 +35,7 @@ I'm a passionate self-taught web developer living in Madagascar and focused on f
 
 <!-- ### Coding Stats -->
 
+## Coding stats:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
