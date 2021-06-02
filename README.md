@@ -33,11 +33,11 @@ I'm a passionate self-taught web developer living in Madagascar and focused on f
 ### Coding Stats:
 <!--START_SECTION:waka-->
 ```text
-HTML         4 hrs 32 mins   ███████████████░░░░░░░░░░   59.50 % 
-SCSS         1 hr 45 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.05 % 
-JavaScript   43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Markdown     23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-CSS          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+HTML         1 hr 30 mins    ████████▓░░░░░░░░░░░░░░░░   34.43 % 
+SCSS         1 hr 18 mins    ███████▓░░░░░░░░░░░░░░░░░   30.01 % 
+Markdown     47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.24 % 
+JavaScript   43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 <!--END_SECTION:waka-->
 
