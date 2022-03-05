@@ -10,17 +10,12 @@ I'm a passionate self-taught web developer living in Madagascar and focused on f
 
 <!-- I'm still keep exploring and learning about web development to become a Fullstack developer. -->
 
-- 🌱 I’m currently learning framework
-- 🥅 2021 Goals: Learn to much
-- 🌟 Open to New Opportunities
-- ⚡ Fun fact: I love to watch movies and series
-
 :mailbox: Reach me out!
 
 [![Mail Badge](https://img.shields.io/badge/-mail-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nasoavina.m@gmail.com) [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/safidy-manitriniaina/)
 
 ### Resume:
-:memo: [My Resume/CV](https://github.com/nassoa/nassoa/raw/master/resumes/CV-Nasoavina.pdf)
+:memo: [My Resume/CV](https://nasoavina.com/cv.pdf)
 
 ### Tools and technologies:
 
