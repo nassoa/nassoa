@@ -31,25 +31,52 @@ _React.js • Next.js • GraphQL • Redux_
 ### 🛠 Stack Technique
 
 **Front-End**  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gatsby.js-663399?style=flat&logo=gatsby&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black"/>
+
+**UI Components**  
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radix-ui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shadcn/ui-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
 
 **State Management**  
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollographql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-764ABC?style=flat&logo=zustand&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white"/>
 
-**Outils**  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+**API & Data**  
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apollo_Client-311C87?style=flat&logo=apollographql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST-FF6F61?style=flat&logo=json&logoColor=white"/>
+
+**Testing & Qualité**  
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white"/>
 
 ---
 
-### 📈 Mes Statistiques
+### 🏗 Architecture & Outils
+
+**Build Tools**  
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+
+**Design System**  
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+
+---
+
+### 📈 GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nassoa&show_icons=true&theme=radical&hide=stars,prs"/>
