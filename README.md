@@ -5,7 +5,7 @@
   <a href="mailto:nasoavina.m@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/nassoa/nassoa/blob/master/resumes/Nasoavina-CV.pdf" target="_blank">
+  <a href="https://github.com/nassoa/nassoa/blob/master/resume/Nasoavina-CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV">
   </a>
 </p>
