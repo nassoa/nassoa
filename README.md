@@ -1,4 +1,4 @@
-<h1 align="center">👨💻 Nassoa - Développeur Front-End Expert React/Next.js</h1>
+<h1 align="center">Nasoavina - Développeur Front-End Expert React/Next.js</h1>
 <h3 align="center">🚀 Créateur d'interfaces performantes & accessibles</h3>
 
 <p align="center">
@@ -93,6 +93,10 @@ _React.js • Next.js • GraphQL • Redux_
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nassoa.nassoa" alt="Visiteurs"/>
-</p>
+# Avec un style différent
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nassoa.nassoa)
+
+# Version minimaliste
+
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnassoa%2Fnassoa)
