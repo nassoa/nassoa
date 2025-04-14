@@ -41,9 +41,10 @@ _React.js • Next.js • GraphQL • Redux_
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black"/>
 
 **UI Components**  
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radix-ui&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shadcn/ui-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Preline_UI-3167FF?style=flat&logo=preline&logoColor=white"/>
 
 **State Management**  
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
