@@ -92,11 +92,3 @@ _React.js • Next.js • GraphQL • Redux_
 - 🔒 Système d'authentification JWT/OTP sécurisé
 
 ---
-
-# Avec un style différent
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nassoa.nassoa)
-
-# Version minimaliste
-
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnassoa%2Fnassoa)
