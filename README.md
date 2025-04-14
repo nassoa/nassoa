@@ -37,9 +37,7 @@ _React.js • Next.js • GraphQL • Redux_
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gatsby.js-663399?style=flat&logo=gatsby&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black"/>
 
 **UI Components**  
